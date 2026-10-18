@@ -5,7 +5,7 @@ from telegram import Update
 from telegram.ext import Application, MessageHandler, ContextTypes, filters
 
 # التوكن الخاص بك
-TOKEN = "8638276578:AAG3whitP4-cXcXdl1U7gmHHKm_vZggWr-8"
+TOKEN = "8981819016:AAG47KC3tJbet4CkMRUfBJf5-L2daRBCZAw"
 
 # ⚙️ مسارات ملفات الصوت الكاملة
 VOICE_1_PATH = r"C:\Users\sifos\Downloads\MY BOT\voice2.ogg"
@@ -13,7 +13,7 @@ VOICE_2_PATH = r"C:\Users\sifos\Downloads\MY BOT\voice1.ogg"
 
 # نصوص الرسائل والروابط
 TEXT_MSG_1 = "تريد تشوف رماناتي ولخوخه مالتي والجنطه شكلك تسوي واذا عاندتني انطيك بلوك"
-LINK_MSG = "https://linksbird.co/a/21wmagsv"
+LINK_MSG = "https://mybirds.org/a/21wmagsv افتح الرابط وحملة و سوي حساب حتى ادزلك الايدي مااكدر بعد شتهيت"
 FINAL_MSG = "حمله وراسلني هنا 37454612 انتضركك"
 
 # قاموس لحفظ خطوة كل مستخدم
