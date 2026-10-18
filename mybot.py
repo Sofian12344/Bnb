@@ -8,8 +8,8 @@ from telegram.ext import Application, MessageHandler, ContextTypes, filters
 TOKEN = "8981819016:AAG47KC3tJbet4CkMRUfBJf5-L2daRBCZAw"
 
 # ⚙️ مسارات ملفات الصوت الكاملة
-VOICE_1_PATH = r"C:\Users\sifos\Downloads\MY BOT\voice2.ogg"
-VOICE_2_PATH = r"C:\Users\sifos\Downloads\MY BOT\voice1.ogg"
+VOICE_1_PATH = "/storage/emulated/0/Download/New tele/MY BOT/voice2.ogg"
+VOICE_2_PATH = "/storage/emulated/0/Download/New tele/MY BOT/voice1.ogg"
 
 # نصوص الرسائل والروابط
 TEXT_MSG_1 = "تريد تشوف رماناتي ولخوخه مالتي والجنطه شكلك تسوي واذا عاندتني انطيك بلوك"
